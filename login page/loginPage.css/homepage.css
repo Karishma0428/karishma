@@ -1,0 +1,27 @@
+h1 {
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: indigo;
+}
+p {
+  font-style: initial;
+  line-height: 29px;
+  margin-left: 50px;
+}
+h4 {
+  font-size: 20px;
+  text-decoration: underline;
+  margin-left: 50px;
+}
+a:hover {
+  text-align: center;
+  color: orangered;
+  font-weight: bold;
+  text-decoration: wavy orangered;
+}
+span {
+  font-size: 25px;
+}
+img {
+  margin-left: 500px;
+}
